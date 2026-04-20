@@ -16,7 +16,7 @@ streamlit run app.py
 ---
 
 ## 📈 Model
-Linear Regression  
+Random Forest Regressor 
 
 ---
 
